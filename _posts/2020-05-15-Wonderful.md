@@ -1,7 +1,7 @@
 ---
 title: The Mask of Beauty
 date: 2020-05-15 11:00:00 -0000
-categories: Wonderful World
+categories: Wonderful
 ---
 There are beautiful things in this world. This is what the dreadful group called "Wonderful World" tells themselves. 
 This world is far from beautiful. As we've seen countless times again, people who are ignorant and oblivious to the problems 
