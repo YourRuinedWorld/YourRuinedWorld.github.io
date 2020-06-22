@@ -2,4 +2,4 @@
 layout: page
 title: "Video Of The Day"
 ---
-stay tuned
+[Video](https://dai.ly/x7uln88 "daily video") of the day!
