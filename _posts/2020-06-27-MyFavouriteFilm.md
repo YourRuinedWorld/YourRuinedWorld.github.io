@@ -1,5 +1,5 @@
 ---
-title: MyFavouriteFilm
+title: My Favourite Film
 date: 2020-06-27 10:00:00 -0000
 categories: fun
 ---
