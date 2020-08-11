@@ -2,4 +2,4 @@
 layout: page
 title: "Video Of The Day"
 ---
-[Video](https://dai.ly/x7up6gr "daily video") of the day!
+New [video](https://www.dailymotion.com/video/x7vioth "daily video") today!
